@@ -130,9 +130,9 @@ Each section includes:
 - **REST API Standards**: https://restfulapi.net/
 - **OWASP Security Guidelines**: https://owasp.org/
 - **Requirement Analysis**: [Link](https://stratoflow.com/requirements-analysis/)
-- **Use case diagram**: (https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/)
-- **User stories**: (https://www.mountaingoatsoftware.com/agile/user-stories)
-- **Understanding Flowchart**: (https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial)
+- **Use case diagram**: [Link](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/)
+- **User stories**: [Link](https://www.mountaingoatsoftware.com/agile/user-stories)
+- **Understanding Flowchart**: [Link](https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial)
 
 
 ---
