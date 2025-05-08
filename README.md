@@ -35,7 +35,7 @@ This section contains a visual overview of the major features supported by the b
 - 📬 **Messaging**: User-to-user communication about bookings
 - 🧾 **Review System**: Hosts and guests can leave ratings and reviews
 
-> Refer to the diagram [`features.png`](./Airbnb_clone_backend_features_diagram.png) for a high-level breakdown.
+> Refer to the diagram [`AirBnB Diagram`](./https://drive.google.com/file/d/1uino9idlldE73Na9ktWXOHwTRzAXOp4E/view?usp=drive_link) for a high-level breakdown.
 
 ---
 
