@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_Bélo.svg/2560px-Airbnb_Logo_Bélo.svg.png" alt="Airbnb Logo" width="100"/>
+</p>
+
 # 🏡 Airbnb Clone – Backend System Architecture Documentation
 
 Welcome to the documentation repository for the **Airbnb Clone Backend**. This repository outlines the foundational planning, system architecture, and technical specifications for the backend services of an Airbnb-like property rental platform. This documentation is intended for backend developers, system architects, QA engineers, and stakeholders involved in building and maintaining the platform.
