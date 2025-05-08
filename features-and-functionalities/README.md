@@ -12,7 +12,7 @@ The diagram outlines key features such as:
 
 ## Contents
 
-- 📄 [`project_features_and_functionalities.png`](./project_features_and_functionalities.png) – System architecture diagram
+- 📄 [`project_features_and_functionalities.png`](./airbnb_clone_backend_features_diagram.png) – System architecture diagram
 
 ## Tools
 
