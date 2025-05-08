@@ -147,4 +147,4 @@ For suggestions or improvements, please open an issue or submit a pull request. 
 
 ---
 
-> Maintained by the backend architecture team – *Airbnb Clone Project*
+> Maintained by Antoine LENO – *Airbnb Clone Project*
