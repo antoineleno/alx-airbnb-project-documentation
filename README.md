@@ -129,6 +129,7 @@ Each section includes:
 - **Markdown Guide**: https://www.markdownguide.org/
 - **REST API Standards**: https://restfulapi.net/
 - **OWASP Security Guidelines**: https://owasp.org/
+- **Requirement Analysis**: Link (https://stratoflow.com/requirements-analysis/)
 - [Requirement Analysis](https://stratoflow.com/requirements-analysis/)
 
 ---
