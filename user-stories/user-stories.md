@@ -1,5 +1,5 @@
 # Airbnb Clone - User Stories  
-*Translated from Use Case Diagram to INVEST-compliant stories*  
+*Translated from [Use Case Diagram](../use-case-diagram/AirBnB_UseCase_Diagram.png) to INVEST-compliant stories*  
 
 ---
 
