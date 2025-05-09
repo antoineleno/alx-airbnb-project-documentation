@@ -51,7 +51,7 @@ This section includes a **Use Case Diagram** that illustrates the interactions b
 - Making payments
 - Leaving reviews
 
-> View the [`use-case.png`](./use-case-diagram/use-case.png) for the full diagram.
+> View the [`use-case.png`](./use-case-diagram/AirBnB_UseCase_Diagram.png) for the full diagram.
 
 ---
 
