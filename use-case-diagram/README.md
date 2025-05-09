@@ -1,14 +1,16 @@
-# User Stories
+# Use Case Diagram
 
-This document translates key system interactions from the use case diagram into actionable user stories.
+This diagram shows key system interactions for the ALX Airbnb project.
 
-## Core Interactions Covered
-- Guest booking flow  
-- Host property management  
-- Admin moderation  
-- Payment processing  
-- User authentication
+## Features Covered
+- User registration & login  
+- Property booking  
+- Payments  
+- Profile management  
+- Role-based access
 
 ## File Info
-- Stories: `user-stories.md`  
-- Location: `user-stories/`
+- Diagram: `AirBnB_UseCase_Diagram.png`  
+- Location: `use-case-diagram/`
+
+Created with [Plantuml](https://editor.plantuml.com/).
