@@ -10,7 +10,7 @@ This diagram shows key system interactions for the ALX Airbnb project.
 - Role-based access
 
 ## File Info
-- Diagram: `use-case.png`  
+- Diagram: `AirBnB_UseCase_Diagram.png`  
 - Location: `use-case-diagram/`
 
-Created with [Draw.io](https://draw.io).
+Created with [Plantuml](https://editor.plantuml.com/).
