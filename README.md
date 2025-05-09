@@ -126,6 +126,7 @@ Each section includes:
 ## 📚 Resources & Tools
 
 - **Draw.io**: Diagram creation (https://draw.io)
+- **Plantuml**: Diagram creation (https://plantuml.com/)
 - **Markdown Guide**: https://www.markdownguide.org/
 - **REST API Standards**: https://restfulapi.net/
 - **OWASP Security Guidelines**: https://owasp.org/
